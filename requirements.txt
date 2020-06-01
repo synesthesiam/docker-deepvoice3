@@ -1,0 +1,17 @@
+docopt==0.6.2
+flask==1.0.2
+flask_cors==3.0.6
+inflect==1.0.1
+librosa==0.6.2
+lws==1.2
+matplotlib==3.0.0
+nltk==3.3
+nnmnkwii==0.0.16
+numba==0.40.0
+numpy==1.15.2
+scipy==1.1.0
+tensorboardX==1.4
+tensorflow==1.11.0
+torch==0.4.1
+tqdm==4.26.0
+unidecode==1.0.22
