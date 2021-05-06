@@ -1,6 +1,6 @@
 docopt==0.6.2
 flask==1.0.2
-flask_cors==3.0.6
+flask_cors==3.0.9
 inflect==1.0.1
 librosa==0.6.2
 lws==1.2
